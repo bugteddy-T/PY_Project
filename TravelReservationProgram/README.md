@@ -172,6 +172,7 @@
                 </tr>
             </tbody>
         </table>
-	<h3>2.4 ER Diagram </h3>
+	<h3>2.4 ERD Diagram </h3>
 	<img src = "./entity.png" width="50%">
-	<img src = "./ERD_diagram.png" width="50%">
+	<img src = "./ERD_diagram.png" width="80%">
+<h2>3. 실행결과 </h3>
