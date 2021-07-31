@@ -173,4 +173,5 @@
             </tbody>
         </table>
 	<h3>2.4 ER Diagram </h3>
-	<img src = "./" width="50%">
+	<img src = "./entity.png" width="50%">
+	<img src = "./ERD_diagram.png" width="50%">
