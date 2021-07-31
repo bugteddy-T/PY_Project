@@ -44,14 +44,14 @@
 		</tr>
 								<tr align="center" bgcolor="white">
                     <th>show_member</th>
-                    <td>전체 고객 목록 </td>
+                    <td>전체 고객 목록 조회 </td>
                     <td></td>
                     <td></td>
                 </tr>
 								<tr align="center" bgcolor="white">
                     <th>delete_member</th>
                     <td>고객 정보 삭제</td>
-                    <td>show_member</td>
+                    <td>delete_info</td>
                     <td>True/False</td>
                 </tr>
 								<tr align="center" bgcolor="white">
