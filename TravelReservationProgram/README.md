@@ -33,7 +33,7 @@
 2. 나머지 정보를 입력받아 고객테이블에 저장:
 인원수, 고객번호, 주소
 </td>
-                    <td>name,number</td>
+                    <td>f_mem_name, f_mem_addr, f_mem_phone, f_mem_num</td>
                     <td>True/False</td>
                 </tr>
 								<tr align="center" bgcolor="white">
@@ -41,6 +41,12 @@
                     <td>기존 고객 정보 수정</td>
                     <td>show_member</td>
                     <td>True/False</td>
+		</tr>
+								<tr align="center" bgcolor="white">
+                    <th>show_member</th>
+                    <td>전체 고객 목록 </td>
+                    <td></td>
+                    <td></td>
                 </tr>
 								<tr align="center" bgcolor="white">
                     <th>delete_member</th>
