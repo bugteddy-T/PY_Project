@@ -4,6 +4,7 @@
 <ol>
   <li><h4><a id ="#travelreserv">travel reservation</a></h4></li>
 </ol>
+<h2>Python Project 소개</h2>
 <ol>
   <li><h3><a id ="#travelreserv">travel reservation</a></h3></li>
   <p>DB와 파이썬을 연동하여 1:N 여행 예약 고객 데이터베이스 관리<br>
